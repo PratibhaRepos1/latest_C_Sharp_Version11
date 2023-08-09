@@ -1,0 +1,8 @@
+C:\Pratibha\Csharp11\Varibles_DataTypes\bin\Debug\Varibles_DataTypes.exe.config
+C:\Pratibha\Csharp11\Varibles_DataTypes\bin\Debug\Varibles_DataTypes.exe
+C:\Pratibha\Csharp11\Varibles_DataTypes\bin\Debug\Varibles_DataTypes.pdb
+C:\Pratibha\Csharp11\Varibles_DataTypes\obj\Debug\Varibles_DataTypes.csproj.AssemblyReference.cache
+C:\Pratibha\Csharp11\Varibles_DataTypes\obj\Debug\Varibles_DataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Pratibha\Csharp11\Varibles_DataTypes\obj\Debug\Varibles_DataTypes.csproj.CoreCompileInputs.cache
+C:\Pratibha\Csharp11\Varibles_DataTypes\obj\Debug\Varibles_DataTypes.exe
+C:\Pratibha\Csharp11\Varibles_DataTypes\obj\Debug\Varibles_DataTypes.pdb
