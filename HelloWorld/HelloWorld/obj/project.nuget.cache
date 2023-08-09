@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVWSLzt/5sHh9/w8Ox/QMufIsUQml54uH9U0hDdjey4yJBN9GguxBE0GJeYVSPOpQe2MFyP04/lZQgTBIOKlCA==",
+  "success": true,
+  "projectFilePath": "C:\\Pratibha\\Csharp11\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pratibha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Pratibha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Pratibha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Pratibha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
