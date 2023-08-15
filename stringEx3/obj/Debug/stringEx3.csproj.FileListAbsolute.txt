@@ -1,0 +1,8 @@
+C:\Pratibha\Csharp11\stringEx3\bin\Debug\stringEx3.exe.config
+C:\Pratibha\Csharp11\stringEx3\bin\Debug\stringEx3.exe
+C:\Pratibha\Csharp11\stringEx3\bin\Debug\stringEx3.pdb
+C:\Pratibha\Csharp11\stringEx3\obj\Debug\stringEx3.csproj.AssemblyReference.cache
+C:\Pratibha\Csharp11\stringEx3\obj\Debug\stringEx3.csproj.SuggestedBindingRedirects.cache
+C:\Pratibha\Csharp11\stringEx3\obj\Debug\stringEx3.csproj.CoreCompileInputs.cache
+C:\Pratibha\Csharp11\stringEx3\obj\Debug\stringEx3.exe
+C:\Pratibha\Csharp11\stringEx3\obj\Debug\stringEx3.pdb
